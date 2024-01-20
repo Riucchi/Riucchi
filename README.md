@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Hello to everyone and welcome to my Github Account, im from argentina, at this moment im studing on CoderHouse the course of Python with Django as framework to develop a Website with Django. this course incude the introduction to POO (Object Orientation Programing) and a communication with a SQLite database.
+Hello to everyone and welcome to my Github Account, im from argentina, at this moment im studing on CoderHouse the course of Python with Django as framework to develop a Website with Django. this course include the introduction to POO (Object Orientation Programing) and a communication with a SQLite database.
 
 my achievements to achieve on the short time is to learn about SQL, FastAPI and some HTML and CSS to make a robust E-commerce and try to develop my frontend studing by myself.
 
