@@ -7,7 +7,7 @@
 Riucchi/Riucchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p style="color:Blue;"><h3>Hello everyone! Welcome to my Github account. I'm from Argentina, at the moment I find myself studying on a digital education platform called Coserhouse, their Python course, with Django as framework to develop a Website with it. This course includes the introduction to POO (Object Orientation Programing) plus communication with a SQLite database.
+<p style="color:blue;"><h3>Hello everyone! Welcome to my Github account. I'm from Argentina, at the moment I find myself studying on a digital education platform called Coserhouse, their Python course, with Django as framework to develop a Website with it. This course includes the introduction to POO (Object Orientation Programing) plus communication with a SQLite database.
 
 The achievements I would like to accomplish on short term are: to learn about SQL, FastAPI, HTML and CSS to make a robust E-commerce. Also trying the development of my frontend learning by myself.
 
